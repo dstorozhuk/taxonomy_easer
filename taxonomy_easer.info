@@ -1,0 +1,6 @@
+name = Taxonomy easer
+description = Provide a set of functions for ease work with  taxonomy.
+package = 'Taxonomy'
+core = 7.x
+dependencies[] = taxonomy
+version = '7.x-1.x-dev'
